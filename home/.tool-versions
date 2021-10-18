@@ -1,3 +1,6 @@
 terraform 1.0.9
 ruby 3.0.2
 python 3.10.0
+golang 1.17.2
+nodejs 16.11.1
+deno 1.15.1
