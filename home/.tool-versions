@@ -2,7 +2,7 @@ terraform 1.0.9
 ruby 3.0.2
 python 3.10.1 2.7.18
 golang 1.17.7
-nodejs 16.11.1
+nodejs 16.13.0
 direnv 2.30.2
 helm 3.7.1
 kubectl 1.23.1
