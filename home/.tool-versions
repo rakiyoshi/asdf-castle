@@ -1,7 +1,7 @@
 terraform 1.1.8
 ruby 3.0.2
 python 3.10.1 2.7.18
-golang 1.18.3
+golang 1.24.2
 nodejs 16.13.0
 direnv 2.30.2
 helm 3.7.1
